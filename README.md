@@ -4,6 +4,9 @@ Para uso deve ser enviado um PUT para a rota "/remove_bg" com o anexo da foto at
 
 O retorno é a imagem com o fundo removido.
 
+## Requisitos para execução
+
+O único requisito para execução do projeto é ter o docker instalado.
 
 ## Comandos para executar o projeto com Docker
 
