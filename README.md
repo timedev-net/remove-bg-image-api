@@ -12,7 +12,7 @@ O retorno é a imagem com o fundo removido.
 docker build -t bgremover .
 ```
 
-2. Cria a imagem docker da aplicação
+2. Sobe o container docker que executa a aplicação
 ```
 docker run --rm --name bg-remover -p 5000:5000 bgremover
 ```
